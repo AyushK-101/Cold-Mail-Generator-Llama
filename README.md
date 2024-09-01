@@ -6,6 +6,12 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Senior Machine Learning Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - Turing company can provide a dedicated software development engineer to Nike. So, the business development executive (Ayush) from Turing is going to reach out to Nike via a cold email.
 
+## Try It Out 
+https://coldmail.streamlit.app/
+
+## Sample Response
+![Screenshot 2024-09-01 165037](https://github.com/user-attachments/assets/5b261123-9e3b-4e5a-be13-8e65d4f51bcc)
+
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
 
